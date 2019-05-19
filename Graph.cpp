@@ -1,6 +1,5 @@
 #include "Graph.h"
 #include<iostream>
-#define _WINDOWS_
 
 void myitoa(int num, char* str)
 {
